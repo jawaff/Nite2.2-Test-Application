@@ -1,0 +1,1 @@
+@python "BuildJavaWindows.py" "%1" "Bin" "src\main\java\com\lcsc\hackathon\kinectcontroller" com.primesense.nite.Samples.UserViewer org.openni.jar;com.primesense.nite.jar com.lcsc.hackathon.kinectcontroller.UserViewerApplication

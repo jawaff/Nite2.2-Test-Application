@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+group = 'com.lcsc.hackathon.kinectcontroller'
+version = '0.0.1'
+
+description = """Nite Skeleton Tracking Test"""
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile fileTree(dir:'lib', includes: ['*.jar'])
+}

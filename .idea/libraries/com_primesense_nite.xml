@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.primesense.nite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.primesense.nite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.openni.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

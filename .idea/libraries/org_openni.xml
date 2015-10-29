@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.openni">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.openni.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
